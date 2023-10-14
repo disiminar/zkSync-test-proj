@@ -18,25 +18,25 @@ Also,  it is worth adding to the screenshot where general information about the 
 
 Everything would be shown below.
 
-> Opening a smart contact
+- Opening a smart contact
 ![](https://i.imgur.com/m2sx9rw.png)
-> Going to the ***Contract*** tab
+- Going to the ***Contract*** tab
 ![](https://i.imgur.com/Q9RVYuC.png)
 > Read
 ![](https://i.imgur.com/kJwaR90.png)
 ![](https://i.imgur.com/VKM14TW.png)
-> It shows us current value of `_greeting`, but the function is called ***greet***
+- It shows us current value of `_greeting`, but the function is called ***greet***
 ![](https://i.imgur.com/mARnJWy.png)
-> Now lets try to write
+- Now lets try to write
 ![](https://i.imgur.com/6gO9tAX.png)
 ![](https://i.imgur.com/h8FcnCA.png)
 ![](https://i.imgur.com/QvbID5V.png)
-> Now we sign a transaction
+- Now we sign a transaction
 ![](https://i.imgur.com/A0Elo57.png)
-> Now we get the transaction hash [0x118244af91773dc1390bb555fda10878195e5d4f073a3e27baaf848857d6aa47](https://goerli.explorer.zksync.io/tx/0x118244af91773dc1390bb555fda10878195e5d4f073a3e27baaf848857d6aa47)
+- Now we get the transaction hash [0x118244af91773dc1390bb555fda10878195e5d4f073a3e27baaf848857d6aa47](https://goerli.explorer.zksync.io/tx/0x118244af91773dc1390bb555fda10878195e5d4f073a3e27baaf848857d6aa47)
 ![](https://i.imgur.com/VfFmYDX.png)
-> Lets check transaction that was shown to us
+- Lets check transaction that was shown to us
 ![](https://i.imgur.com/DCFmuuD.png)
-> Everything seems alright. now lets ***Read*** the value of `_greeting`, becouse we just changed it
+- Everything seems alright. now lets ***Read*** the value of `_greeting`, becouse we just changed it
 ![](https://i.imgur.com/pIj3yid.png)
 ### Perfectly! everything worked out for us! :)
