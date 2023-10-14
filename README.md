@@ -22,7 +22,7 @@ Everything would be shown below.
 ![](https://i.imgur.com/m2sx9rw.png)
 - Going to the ***Contract*** tab
 ![](https://i.imgur.com/Q9RVYuC.png)
-> Read
+- Read
 ![](https://i.imgur.com/kJwaR90.png)
 ![](https://i.imgur.com/VKM14TW.png)
 - It shows us current value of `_greeting`, but the function is called ***greet***
